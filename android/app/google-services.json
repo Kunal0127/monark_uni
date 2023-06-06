@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "133147230961",
+    "project_id": "monarkuni",
+    "storage_bucket": "monarkuni.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133147230961:android:64cb6b138fe798b9e35f50",
+        "android_client_info": {
+          "package_name": "com.example.monark_uni"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "133147230961-7oan46dbjb2ikide3hemek1edciu4fvb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvYPyZB7Te4By_11Okg8HZLs7SSJ-cQIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "133147230961-7oan46dbjb2ikide3hemek1edciu4fvb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
